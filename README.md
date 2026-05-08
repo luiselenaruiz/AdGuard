@@ -25,7 +25,7 @@ Desplegar AdGuard Home amb Docker Compose i utilitzar-lo com a DNS amb filtratge
 ```bash
 
 docker compose up -d
-
+```
 
 <img width="1601" height="873" alt="Captura de pantalla 2026-05-08 160935" src="https://github.com/user-attachments/assets/73748990-ea07-4608-879a-5395bf07d674" />
 
